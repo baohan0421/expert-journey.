@@ -1,2 +1,0 @@
-# expert-journey.
-MyTest
